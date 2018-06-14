@@ -1,0 +1,27 @@
+# Jobs
+
+- company: Web Markup
+  position: HTML 5, CSS3 &mdash; Proficient
+  summary: Proficient understanding of web markup, including HTML5, CSS3 
+
+- company: CSS Preprocessors
+  position: Eg- SASS, Stylus &mdash; Basic
+  duration:  Jun, 2010 &mdash; Sept, 2013
+  summary: Basic understanding of CSS Preprocessors such as Sass, Stylus
+
+- company: Design Concepts
+  position: Basic Understanding
+  duration:  Jun, 2010 &mdash; Sept, 2013
+  summary: Basic understanding of Design Concepts
+
+- company: CSS Framework
+  position: Eg- Bootstrap, Vuetify, etc. &mdash; Proficient
+  summary: Proficient understanding of a CSS Framework, ex-Bootstrap, Vuetify, etc.
+
+- company: JavaScript Frameworks
+  position: Eg- Vue, React, Angular, etc &mdash;Intermediate
+  summary: Intermediate understanding of JavaScript Frameworks such as Vue, React, Angular, etc (at least one)
+
+- company: AJAX or XHR
+  position: Good understanding
+  summary: Good understanding of AJAX or XHR.
